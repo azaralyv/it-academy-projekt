@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.block5{
+background-color: #9DC9C8;
+width: 1440px;
+height: 780px;
+}
+
+h1{
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+margin: 0;
+}
+
+h2{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+margin-top: 54px;
+margin-bottom: 0;
+}
+
+h3{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+margin: 0;
+}
+
+.content{
+padding-top: 179px;
+padding-left: 122px;
+padding-bottom: 185px;
+}
+
+.left{
+    width: 294px;
+    height: 111px;
+    margin-right: 70px;
+}
+
+.right{
+    width: 294px;
+    height: 111px;
+}
+
+.container{
+    display: flex;
+}
+
+h5{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+}
+
+p{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+}
+
+.item{
+padding-top: 50px;
+padding-left: 122px;
+padding-bottom: 23px;
+}
+
+.logo{
+width: 115px;
+height: 68px;
+margin-right: 788px;
+}
+
+.instagram{
+width: 33px;
+height: 33px;
+margin-top: 30px;
+margin-right: 18px;
+}
+
+.left-item{
+display: block;
+}
+
+footer{
+width: 1440px;
+height: 390px;
+background: #000000;
+}
+
+.fb{
+width: 32px;
+height: 32px;
+margin-right: 21px;
+}
+
+.vk{
+width: 35px;
+height: 35px;
+margin-right: 25px;
+}
+
+.viber{
+width: 34px;
+height: 34px;
+}
+
+.company{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+margin-top: 146px;
+color: white;
+margin-bottom: 0;
+}
+
+.phone{
+width: 27px;
+height: 27px;
+margin-right: 22px;
+}
+
+.item-position{
+display: flex;
+}
+
+.number{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+color: #FFFFFF;
+margin: 0;
+}
+
+.right-item{
+display: block;
+}
+
+.messege{
+width: 27px;
+height: 18px;
+margin-right: 22px;
+}
+
+.mail{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+color: #FFFFFF;
+margin: 0;
+}
+
+.item1{
+    display: flex;
+}
+
+.item2{
+    display: flex;
+    margin-top: 25px;
+}
