@@ -1,0 +1,119 @@
+@media (min-width: 320px) and (max-width: 992px){
+    /* ---------------------------PAGE-1------------------------------------- */
+
+    .container{
+        width: 292px;
+        margin: 0 auto;
+    }
+    .page-1{
+        margin-bottom: 100px;
+    }
+    .page-1-logo{
+        margin-top: 36px;
+        margin-bottom: 44px;
+    }
+    .page-1-logo img{
+        width: 52px;
+        height: 30px;
+    }
+    .page-1-main{
+        flex-wrap: wrap;
+        justify-content: end;
+        width: 294px;
+        margin-bottom: 56px;
+    }
+    .page-1-main-left-date span{
+        margin-right: 10px;
+    }
+    .page-1-main-left{
+        width: 292px;
+        font-size: 10px;
+    }
+    .page-1-main-left h1{
+        font-size: 31px;
+        margin-top: 8px;
+    }
+    .page-1-main-left-date img{
+        width: 10px;
+        height: 9px;
+    }
+    .page-1-img{
+        width: 141px;
+    }
+    .page-1-img .noroot{
+        width: 141px;
+        height: 165px;
+    }
+    .page-1-img .ellipse{
+        width: 127px;
+        height: 19px;
+        top: 155px;
+        left: 15px;
+    }
+    .page-1-footer-text{
+        width: 225px;
+        height: 93px;
+        padding: 12px;
+        border-radius: 2px;
+        font-size: 11px;
+    }
+    .page-1-footer-author{
+        font-size: 10px;
+    }
+
+    /* ---------------------------------------------PAGE-2---------------------------- */
+    .page-2-header h1{
+        font-size: 26px;
+    }
+    .page-2-main{
+        flex-wrap: wrap;
+        flex-direction: column;
+        width: 308px;
+        height: 400px;
+    }
+    .page-2-section{
+        width: 314px;
+        height: auto;
+        font-size: 12px;
+        align-self: start;
+    }
+    .page-2-image {
+        width: 146px;
+        height: 146px;
+    }
+    .page-2-foto-1-1{
+        width: 146px;
+        height: 146px;
+    }
+    .ellipse-2{
+        width: 170px;
+        height: 27px;
+        top: 133px;
+        left: -15px;
+    }
+    .page-2-footer{
+        margin-top: 59px;
+        margin-bottom: 76px;
+        justify-content: start;
+    }
+    .page-2-footer-img{
+        display: none;
+    }
+    .page-2-footer-p{
+        flex-wrap: wrap;
+    }
+    .page-2-footer-p div{
+        width: 86px;
+        height: auto;
+        font-size: 10px;
+        margin-right: 33px;
+    }
+    .page-2-footer-p h3{
+        font-size: 12px;
+    }
+    .ellipse-3{
+        display: none;
+    }
+    
+/* --------------------------------------------------------PAGE-3--------------------------------------------- */
+}
