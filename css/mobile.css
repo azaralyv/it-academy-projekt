@@ -143,7 +143,7 @@
   .cards_item h2 {
     margin: 6px 7px 15px;
     font-size: 14px;
-    font-family: 'Roboto;
+    font-family: 'Roboto';
   }
 
   .cards_item p {
@@ -161,4 +161,70 @@
     font-weight: 700;
   }
   /* --------------------------Section_program------------------------------ */
+
+/*-- ----------------------Section_Kmrn---start---------------------------*/
+
+.kmrnSection  {
+    background-color: #EFEFEF;
+    width: 800px;
+    height: 850px;
+    
+}
+
+
+.kmrnHead  {
+    padding-top: 50px;
+    font-family: "roboto slab";
+    font-size: 30px;
+    color: black;
+    flex-wrap: wrap;
+    margin:50px ;
+    
+    
+    
+
+}
+
+.kmrnBox {
+    padding: 45px;
+    width: 500px;
+    height: 400px;
+    vertical-align: bottom;
+    left: 36px;
+    right: 32px ;
+    margin: 50px;
+
+}
+
+.kmrnAbout {
+    flex-direction: column;
+    font-size: 15px;
+    margin-top: -5px;
+
+    
+    
+}
+
+.kmrnH3{
+    
+    font-size: 25px;
+    height:5%;
+    left: 42%;
+
+}
+
+.kmrnFoto1{
+    position: static;
+    margin-top: 15px;
+    margin-left:2px;
+}
+
+.kmrnFoto2{
+    
+    height: auto;
+}
+
+/*-- ----------------------Section_Kmrn---end---------------------------*/
+
+
 }

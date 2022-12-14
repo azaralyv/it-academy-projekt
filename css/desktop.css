@@ -201,6 +201,68 @@ body {
   font-weight: 700;
 }
 /*-- ----------------------Section_Program------------------------------*/
+/*-- ----------------------Section_Kmrn---start---------------------------*/
+
+.kmrnSection {
+  background-color: #EFEFEF;
+  height: 900px;
+}
+
+
+.kmrnHead {
+  font-family: "roboto slab";
+  font-size: 40px;
+  margin-left: 140px;
+  margin-bottom: 100px;
+  padding-top: 5px;
+  color: black;
+
+}
+
+.kmrnBox {
+
+  padding: 1%;
+  margin-left: 126px;
+  width: 791px;
+  height: 451px;
+
+  background: #FFFFFF;
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+
+.kmrnAbout{
+  
+  margin: 25px;
+  margin-bottom: 0px;
+
+  font-weight: 400;
+  font-size: 20px;
+  font-family: "roboto";
+  font-style: black;
+  line-height: 35px;
+}
+
+.kmrnH3 {
+  font-family: 'Roboto Slab';
+  font-size: 30px;
+  margin: 0;
+  position: relative;
+  left: 30%;
+  bottom: 35%;
+}
+
+.kmrnFoto1{
+  margin-top: 15px;
+  margin-left: 26px;
+}
+
+.kmrnFoto2{
+  margin-left: 15px;
+  margin-bottom: 30px;
+}
+
+/*-- ----------------------Section_Kmrn---end---------------------------*/
 
 /*-- ----------------------Section_5------start------------------------*/
 
