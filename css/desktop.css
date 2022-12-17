@@ -63,10 +63,20 @@
   }
 
   /* ---------------------------------PAGE-2------------------------------------ */
+
+  .page-2{
+    padding: auto 200px;
+  }
+
+  .page-2-footer{
+    display: flex;
+  }
+
   .page-2-header h1 {
     font-size: 55px;
   }
   .page-2-main {
+    display: flex;
     justify-content: space-between;
     height: 450px;
     margin-bottom: 92px;
@@ -204,6 +214,7 @@ body {
 /*-- ----------------------Section_Kmrn---start---------------------------*/
 
 .kmrnSection {
+  /* margin-top: 160px; */
   background-color: #EFEFEF;
   height: 900px;
 }
@@ -211,12 +222,19 @@ body {
 
 .kmrnHead {
   font-family: "roboto slab";
-  font-size: 40px;
+  font-size: 56px;
+  font-weight: 700;
   margin-left: 140px;
   margin-bottom: 100px;
   padding-top: 5px;
   color: black;
 
+}
+
+.kmrnHeadP{
+  font-family: "roboto slab";
+  font-size: 56px;
+  font-weight: 700;
 }
 
 .kmrnBox {

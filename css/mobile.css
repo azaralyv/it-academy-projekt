@@ -1,4 +1,4 @@
-@media (min-width: 320px) and (max-width: 992px){
+@media (min-width: 376px) and (max-width: 992px){
     /* ---------------------------PAGE-1------------------------------------- */
 
     .container{
@@ -116,6 +116,54 @@
     }
     
 /* --------------------------------------------------------PAGE-3--------------------------------------------- */
+
+.container{
+    max-width: 303px;
+    margin: auto 36px;
+}
+
+h3{
+   font-family: 'Roboto Slab', serif;
+   font-size: 26px;
+   font-weight: 700;
+   margin-top: 70px;
+   margin-bottom: 32px;
+}
+
+.format-body--head{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    color: #1E4681;
+}
+
+.format-body--content{
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    width: 176px;
+    margin-bottom: 34px;
+    line-height: 13px;
+}
+
+.format-body{
+    display: flex;
+    flex-direction: column;
+}
+
+li{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    width: 300px;
+}
+
+.container-3-1{
+    padding-bottom: 90px;
+ }
+
  /* --------------------------Section_program------------------------------ */
  .section_program {
     width: 100%;
@@ -164,67 +212,260 @@
 
 /*-- ----------------------Section_Kmrn---start---------------------------*/
 
-.kmrnSection  {
+.kmrnSection {
     background-color: #EFEFEF;
-    width: 800px;
-    height: 850px;
-    
-}
-
-
-.kmrnHead  {
-    padding-top: 50px;
+    height: 423px;
+    width: 400px;
+    margin-top: 48px;
+  }
+  
+  
+  .kmrnHead {
     font-family: "roboto slab";
-    font-size: 30px;
+    font-weight: 700;
+    font-size: 26px;
+    margin-left: 36px;
+    margin-bottom: 30px;
+    padding-top: 3px;
     color: black;
-    flex-wrap: wrap;
-    margin:50px ;
+  
+  }
+
+  .kmrnHeadP{
+    font-family: "roboto slab";
+    font-weight: 700;
+    font-size: 26px;
+  }
+  
+  .kmrnBox {
+  
+    padding: 1%;
+    margin-left: 36px;
+    width: 308px;
+    height: 248px;
+  
+    background: #FFFFFF;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+  }
+  
+  .kmrnAbout{
     
-    
-    
-
-}
-
-.kmrnBox {
-    padding: 45px;
-    width: 500px;
-    height: 400px;
-    vertical-align: bottom;
-    left: 36px;
-    right: 32px ;
-    margin: 50px;
-
-}
-
-.kmrnAbout {
-    flex-direction: column;
-    font-size: 15px;
-    margin-top: -5px;
-
-    
-    
-}
-
-.kmrnH3{
-    
-    font-size: 25px;
-    height:5%;
-    left: 42%;
-
-}
-
-.kmrnFoto1{
-    position: static;
+    margin: 25px;
+    margin-bottom: 0px;
+  
+    font-weight: 400;
+    font-size: 10px;
+    font-family: "roboto";
+    font-style: black;
+    line-height: 15px;
+  }
+  
+  .kmrnH3 {
+    padding-left: 20px;
+    font-family: 'Roboto Slab';
+    font-size: 14px;
+    margin: 0;
+    position: relative;
+    left: 30%;
+    bottom: 35%;
+  }
+  
+  .kmrnFoto1{
     margin-top: 15px;
-    margin-left:2px;
-}
-
-.kmrnFoto2{
-    
-    height: auto;
-}
+    margin-left: 26px;
+    width: 84px;
+    height: 80px;
+  }
+  
+  .kmrnFoto2{
+    /* margin-left: 15px; */
+    margin-bottom: 30px;
+    width: 18px;
+    height: 18px;
+  }
 
 /*-- ----------------------Section_Kmrn---end---------------------------*/
+
+/*-- ----------------------Section_5------start------------------------*/
+
+  
+
+.block5{
+    background-color: #9DC9C8;
+    width: 400px;
+    height: 364px;
+    }
+    
+    .block5-h1{
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    margin: 0;
+    }
+    
+    .block5-h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 32px;
+    margin-bottom: 0;
+    }
+    
+    .block5-h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+    margin: 0;
+    }
+    
+    .block5-content{
+    padding-top: 62px;
+    padding-left: 56px;
+    padding-bottom: 64px;
+    }
+    
+    .block5-left{
+      
+    }
+    
+    .block5-right{
+        width: 170px;
+        height: 40px;
+  
+    }
+    
+    .block5-container{
+        display: flex;
+    }
+    
+    .block5-h5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    }
+    
+    p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    }
+
+    /* ------------------------------------------------------- */
+    
+    .block5-item{
+    padding-top: 24px;
+    padding-left: 56px;
+    padding-bottom: 14px;
+    }
+    
+    .block5-logo{
+    width: 54px;
+    height: 32px;
+    margin-right: 56px;
+    }
+    
+    .instagram{
+    width: 15px;
+    height: 15px;
+    margin-top: 0px;
+    margin-right: 6x;
+    }
+    
+    .block5-left-item{
+    display: block;
+    
+    }
+    
+    .block5-footer{
+    width: 400px;
+    height: 250px;
+    background: #000000;
+    }
+    
+    .fb{
+        width: 15px;
+        height: 15px;
+    margin-right: 6px;
+    }
+    
+    .vk{
+        width: 15px;
+        height: 15px;
+    margin-right: 6px;
+    }
+    
+    .viber{
+        width: 15px;
+        height: 15px;
+    }
+    
+    .company{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    margin-top: 114px;
+    color: white;
+    margin-bottom: 0;
+    }
+    
+    .block5-phone{
+    width: 12px;
+    height: 12px;
+    margin-right: 16px;
+    }
+    
+    .block5-item-position{
+    display: flex;
+    margin-bottom: -20px;
+    }
+    
+    .block5-number{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    }
+    
+    .block5-right-item{
+      padding-left: 0;
+    display: block;
+    }
+    
+    .block5-messege{
+    width: 12px;
+    height: 10px;
+    margin-right: 16px;
+    }
+    
+    .block5-mail{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin: 0;
+    }
+    
+    .block5-item1{
+        display: flex;
+    }
+    
+    .block5-item2{
+        display: flex;
+        margin-top: 12px;
+    }
+    
+
+  /*-- ----------------------Section_5-------end-----------------------*/
 
 
 }
